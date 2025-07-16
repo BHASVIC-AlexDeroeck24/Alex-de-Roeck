@@ -1,11 +1,44 @@
 <h1 align="center">Hello, I'm Alex de Roeck!</h1>
 <h3 align="center">I am currently studying A level Computer Science and BTEC Computing.</h3>
 <br>
-♠♥ I am currently designing + creating a Blackjack game/learner in Java as coursework for my Computer Science A Level. ♣♦
+
+<h3>Professional Goals</h3> <!--PROFESSIONAL GOALS------------------------------------------------------------>
+<hr>
+I am interested in a job in Computing or potentially accountancy.
 <br><br><br>
 
+<h3>What I'm working on</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
+<hr>
+I am currently designing + creating a Blackjack game/learner in Java as coursework for my Computer Science A Level.
+<br><br><br>
+
+<h3>Qualifications</h3> <!--QUALIFICATIONS--------------------------------------------------------------->
+<hr>
+I have 8 GCSEs including a 7 in Maths and Computer Science, and a Level 2 Distinction in Creative iMedia BTEC.
+<br><br><br>
+
+<h3>Skills</h3> <!--SKILLS---------------------------------------------------------------------------------->
+<hr>
+Speaking + Communication: From being a part-time magician, I have and will continue to develop communication skills to entertain people, keeping them engaged in conversations and relaying clear instructions.
+<br><br>
+
+Team Working: From mulitple group projects I have worked on.
+<br><br>
+
+Time Management: From multiple projects and assignments I have been set with deadlines, and worked on.
+<br><br>
+
+Problem Solving: Debugging and testing code, and problems in Maths.
+<br><br>
+
+<br>
+<hr>
+
+View my repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
+<br><br>
+
 <details>
-<summary>My top coding languages</summary>
+<summary>My Top Coding Languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -15,5 +48,3 @@
 
 </details>
 
-<br>
-View my repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
